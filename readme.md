@@ -1,11 +1,11 @@
-# co7a9404aa83568257dc0a51e
+# Meme Generator
 
 Quick start:
 
 ```
 $ yarn # npm install
 $ yarn build # npm run build
-````
+```
 
 ## Development
 
