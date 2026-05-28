@@ -5,6 +5,7 @@ Built by me as part of my front-end React training with Scrimba.
 - UseEffect and UseState
 - webpack config
 - API
+- Deploy on Netlify
 
 View project:
 
